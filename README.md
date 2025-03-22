@@ -1,6 +1,11 @@
 <h3 align="center">
   <code><a href="https://prpl.wtf">Emma</a>'s Circles</code>
 </h3>
+
+<br>
+
+![circles banner](https://github.com/user-attachments/assets/137e586b-ca2c-41ec-8dc2-057fabb41648)
+
 <br>
 
 | Variation                                   | Description                                                                                                                                                                                                                                                                 |
