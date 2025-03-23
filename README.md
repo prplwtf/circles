@@ -4,7 +4,7 @@
 
 <br>
 
-![circles banner](https://github.com/user-attachments/assets/137e586b-ca2c-41ec-8dc2-057fabb41648)
+![circles banner](https://github.com/user-attachments/assets/52f3d463-d1ed-4d69-9ad0-0ffbaea75662)
 
 <br>
 
