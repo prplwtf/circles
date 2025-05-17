@@ -3,6 +3,6 @@ I do not claim ownership nor authorship of any of these drawings. These were mad
 
 ---
 
-### [`picrew-01.png`](./picrew-01.jpg)
+### [`picrew-01.png`](./picrew-01.png)
 This image was created with Picrew’s “makowka character maker II“!!  https://picrew.me/share?cd=pIMcwp2JRF \
 Personal Non-Commercial
